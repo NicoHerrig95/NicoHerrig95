@@ -1,5 +1,5 @@
 **Hi there** :raised_hand_with_fingers_splayed:
 
-I am Nico, a current student at the University of St. Andrews pursuing an MSc. in Applied Statistics and Datamining.
+I am Nico, a Data Engineer/ - Scientist with a background in statistics. 
 
-I am mainly interested in *Data Analytics, Machine Learning, Probability Theory* and *Computational Statistics* - and dogs. :dog2:
+I am interested in Machine Learning, Computational Statistics and Quantitative Finance - and thats mainly what you will find on this GitHub account. 
