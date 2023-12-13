@@ -1,5 +1,11 @@
-**Hi there** :raised_hand_with_fingers_splayed:
+**Hi,** 
 
 I am Nico, a Data Engineer/Scientist with a background in statistics. 
 
-I am interested in **Machine Learning**, **Computational Statistics** and **Quantitative Finance** - and thats mainly what you will find on this GitHub account. 
+My main programming and maths related ineterest lie in:
+- **Machine Learning**
+- **Quantitative Finance**
+- **Reinforcement Learning**
+- **Computational Statistics**
+
+ So, thats mainly what you will find on this GitHub account. 
